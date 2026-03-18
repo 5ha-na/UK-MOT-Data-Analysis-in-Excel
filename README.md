@@ -4,7 +4,6 @@ Analysed UK MOT test data using Excel to identify vehicle reliability trends, fa
 
 
 ## 1. 📊 Overview / Descriptive Analysis 
--These are your baseline questions:
 -What is the overall pass vs fail rate?
 -How many tests are conducted per year / month?
 -What is the trend in pass rates over time?
