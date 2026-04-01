@@ -50,19 +50,19 @@ With the data I cleaned, I plan to answer the following questions
 6. Which vehicles have the highest pass rates?
 7. Do newer vehicles pass more often than older ones?
 8. How does mileage impact pass/fail rate?
-Which vehicle types are most reliable over time?
+9. Which vehicle types are most reliable over time?
 
 ## Key Insignts to be developed: 
 ### ❌ Failure Analysis
-What are the most common reasons for MOT failure?
-Which failure categories are increasing over time?
-Do certain car brands fail for specific reasons?
-Are there patterns between:
-mileage and failure type?
-age and failure type?
+10. What are the most common reasons for MOT failure?
+11. Which failure categories are increasing over time?
+12. Do certain car brands fail for specific reasons?
+13. Are there patterns between:
+    mileage and failure type?
+    age and failure type?
 
 ### 📈 Trend Analysis 
-How have failure rates changed over time (pre/post 2018 changes)?
-Are vehicles becoming more reliable over time?
-Which failure types are decreasing/increasing year-on-year?
-Are newer cars failing for different reasons than older cars?
+14. How have failure rates changed over time (pre/post 2018 changes)?
+15. Are vehicles becoming more reliable over time?
+16. Which failure types are decreasing/increasing year-on-year?
+17. Are newer cars failing for different reasons than older cars?
