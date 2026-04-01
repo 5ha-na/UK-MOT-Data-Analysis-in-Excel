@@ -9,7 +9,8 @@ Using the UK's Goverment Anonymised MOT results, I set out to uncover which car 
 ## The Data
 
 Source: [MOT testing data results (2024)](https://www.data.gov.uk/dataset/c63fca52-ae4c-4b75-bab5-8b4735e1a4c9/anonymised-mot-tests-and-results)
-I also downloaded MOT testing data lookup tables to help me make sense of the data.
+
+I also downloaded the MOT testing data lookup tables to help me make sense of the data.
 
 Format: 12 CSV files (January - December 2024), each containing over 1 million rows of test results. 
 
