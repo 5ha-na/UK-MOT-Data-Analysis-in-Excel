@@ -1,4 +1,4 @@
-### UK MOT Test Analysis: Finding the Right Used Car
+# UK MOT Test Analysis: Finding the Right Used Car
 
 ## Project Overview
 Once you pass your driving test, the common and usual next step is to get a car and enjoy your new found freedom. Since passing my driving test, I've spent years browsing on Autotrader or facebook market without feeling confident enough to commit. 
@@ -16,8 +16,8 @@ Format: 12 CSV files (January - December 2024), each containing over 1 million r
 
 Key Challenge: Processing over 12 million rows on a mac laptop with hardware limitations required thoughtful data reduction and efficient cleaning strategies.
 
-### Project Details
-## Data Cleaning Process- Below is the summary of the data cleaning process for every CSV files: 
+## Project Details
+### Data Cleaning Process- Below is the summary of the data cleaning process for every CSV files: 
 1. Removing duplicate `test_id` - Identified and removed duplicates to ensure no test was counted multiple times, which would skew pass/fail calculations
 2. Filtering for Cars Only - The dataset includes multiple vehicle types. My focus was passenger cars therefore I filtered the `test_class` to code 4 to represent cars / passenger vehicles
 3. Identifyinig duplicate `vehicle_id` - I sorted the `vehicle_id` to descending order and then applied conditional formatting to the column to highlight the duplicate vehicle_ids. This helped me track vehicles with multiple test histories, which became useful for analysing pass / fail rates over time.
