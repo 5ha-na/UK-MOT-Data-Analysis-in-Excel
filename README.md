@@ -1,6 +1,16 @@
-### UK MOT Data Analysis in Excel - Vehicle Reliability Failure Trends
+### UK MOT Test Analysis: Finding the Right Used Car
 
-Analysed UK MOT test data using Excel to identify vehicle reliability trends, failure patterns, and relationships between age, mileage, and test outcomes. Includes data cleaning, pivot analysis, and dashboard visualisation.
+## Project Overview
+Once you pass your driving test, the common and usual next step is to get a car and enjoy your new found freedom. Since passing my driving test, I've spent years browsing on Autotrader or facebook market without feeling confident enough to commit. 
+I decided to look into the data to answer my simple question: -Which car is actually worth buying?
+
+Using the UK's Goverment Anonymised MOT results, I set out to uncover which car make, fuel type and age brackets consistently performed best. This project represents my first end-to-end data analytics workflow entirely in Excel, from raw data cleaning to insight generation. 
+
+## The Data
+
+Source: [MOT testing data results (2024)](https://www.data.gov.uk/dataset/c63fca52-ae4c-4b75-bab5-8b4735e1a4c9/anonymised-mot-tests-and-results)
+Format: 12 CSV files (January - December 2024), each containing over 1 million rows of test results
+Key Challenge: Processing over 12 million rows on a mac laptop with hardware limitations required thoughtful data reduction and efficient cleaning strategies.
 
 
 ## 1. 📊 Overview / Descriptive Analysis 
