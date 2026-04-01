@@ -2,7 +2,7 @@
 
 ## Project Overview
 Once you pass your driving test, the common and usual next step is to get a car and enjoy your new found freedom. Since passing my driving test, I've spent years browsing on Autotrader or facebook market without feeling confident enough to commit. 
-I decided to look into the data to answer my simple question: -Which car is actually worth buying?-
+I decided to look into the data to answer my simple question: *Which car is actually worth buying?*
 
 Using the UK's Goverment Anonymised MOT results, I set out to uncover which car make, fuel type and age brackets consistently performed best. This project represents an end-to-end data analytics workflow entirely in Excel, from raw data cleaning to insight generation. 
 
